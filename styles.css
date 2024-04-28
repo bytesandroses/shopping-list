@@ -29,6 +29,10 @@ img {
   align-self: center;
 }
 
+ul {
+  font-size: 15px;
+}
+
 li {
   margin-bottom: 10px;
 }
