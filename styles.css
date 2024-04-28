@@ -13,7 +13,7 @@ body {
 
 h1 {
   font-size: 60px;
-  padding-top: 40px;
+  margin-top: 40px;
 }
 
 h1,
@@ -23,6 +23,7 @@ div {
 
 div {
   font-size: 20px;
+  padding-bottom: 15px;
 }
 
 img {
@@ -32,6 +33,7 @@ img {
 
 ul {
   font-size: 15px;
+  align-self: center;
 }
 
 div button {
