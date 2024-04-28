@@ -1,7 +1,10 @@
 # MDN Challenge: Building A Dynamic Shopping List
 
-This is a solution to the [Mozilla Developer Network's Dynamic Shopping List Challenge](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_a_dynamic_shopping_list). The main learning objective was to gain familiarity with the core DOM APIs, and the other APIs commonly associated with DOM and document manipulation.  
-The main learning objective was to gain familiarity with the core DOM APIs, and the other APIs commonly associated with DOM and document manipulation. 
+This my solution to the [Mozilla Developer Network's Dynamic Shopping List Challenge](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_a_dynamic_shopping_list). The main learning objective was to gain familiarity with:
+
+- the core DOM APIs 
+- other APIs commonly associated with DOM and document manipulation.  
+
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
