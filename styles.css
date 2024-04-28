@@ -20,6 +20,10 @@ div {
   text-align: center;
 }
 
+img {
+  max-width: 20vw;
+}
+
 li {
   margin-bottom: 10px;
 }
