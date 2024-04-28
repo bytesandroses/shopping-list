@@ -11,6 +11,11 @@ body {
   margin: auto;
 }
 
+h1,
+div {
+  text-align: center;
+}
+
 li {
   margin-bottom: 10px;
 }
