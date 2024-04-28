@@ -9,6 +9,7 @@ This my solution to the [Mozilla Developer Network's Dynamic Shopping List Chall
 [Overview](#overview)
 - [The challenge](#the-challenge)
 - [Solution Link](#solution-link)
+
 [My process](#my-process)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
